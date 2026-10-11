@@ -1,0 +1,2 @@
+This is my sample text file.
+This file is created for DevOps Module-2 practical.
